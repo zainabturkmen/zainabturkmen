@@ -1,7 +1,7 @@
 <h1 align="center">Hello world👋,I'm Zainab Turkmen</h1>
 <h3 align="center">A passionate Software Engineer, Frontend Web Developer from Afghanistan</h3>
 
-<img aling="right" alt="coding gif" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fbarkpost-barkpost-happy-wednesday-working-like-a-dog-eYilisUwipOEM&psig=AOvVaw0uTVyY76bqyduMtcC1SeHg&ust=1700305900642000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjl84r0yoIDFQAAAAAdAAAAABAT"/>
+<img aling="right" alt="coding gif" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fbarkpost-barkpost-happy-wednesday-working-like-a-dog-eYilisUwipOEM&psig=AOvVaw0uTVyY76bqyduMtcC1SeHg&ust=1700305900642000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjl84r0yoIDFQAAAAAdAAAAABAT"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainabturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="zainabturkmen" /> </p>
 
