@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/zainab-turkmen-719183271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zainab-turkmen-719183271" height="30" width="40" /></a>
 <a href="https://discord.gg/zainabturkmen#9475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zainabturkmen#9475" height="30" width="40" /></a>
-<a href="https://discord.gg/zainabturkmen#9475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zainabturkmen#9475" height="30" width="40" /></a>  
+<a href="https://twitter.com/ZainabTurkmen" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2F9WZDNCRFJ140%3Fhl%3Dsr-cyrl-rs%26gl%3DPW&psig=AOvVaw0yVx7RW1jZTjuhUNZ35CK_&ust=1702262670662000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD24Ozsg4MDFQAAAAAdAAAAABAE" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
