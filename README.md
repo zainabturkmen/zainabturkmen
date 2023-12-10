@@ -23,8 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/zainab-turkmen-719183271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zainab-turkmen-719183271" height="30" width="40" /></a>
 <a href="https://discord.gg/zainabturkmen#9475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zainabturkmen#9475" height="30" width="40" /></a>
-<a href="https://twitter.com/ZainabTurkmen" target="blank"><img align="center" src="![image](https://github.com/zainabturkmen/zainabturkmen/assets/132147692/473c42b7-a1cc-47da-8513-ab73a2e5ae76)
-" height="30" width="40" /></a>  
+<a href="https://twitter.com/ZainabTurkmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
