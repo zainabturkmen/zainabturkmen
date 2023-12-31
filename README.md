@@ -34,6 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainabturkmen&show_icons=true&locale=en" alt="zainabturkmen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainabturkmen&" alt="zainabturkmen" /></p>
-
-![Uploading ScalerCreateImpactGIF.gif…]()
-
