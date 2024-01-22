@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainabturkmen&show_icons=true&locale=en" alt="zainabturkmen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainabturkmen" alt="zainabturkmen" /></p>
+
+<img aling="right" alt="coding gif" width="350px" src="https://media0.giphy.com/media/eYilisUwipOEM/200.gif?cid=82a1493bqp9z6hxy4jex032bbdsbkqhi6wyn3l8wb45fx03l&ep=v1_gifs_search&rid=200.gif&ct=g">
+
