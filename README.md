@@ -4,10 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainabturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="zainabturkmen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainabturkmen" alt="zainabturkmen" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://user-images.githubusercontent.com/31789752/147340893-655b9fa5-138f-4f29-91ec-2a17c93822d1.png" alt="zainabturkmen" /></a> </p>
+<p align="left"  background-color = "black" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainabturkmen" alt="zainabturkmen" /></a> </p>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_dimmed
 
 - 🌱 I’m currently learning **Frontend web development**
 
