@@ -1,5 +1,5 @@
 <h1 align="center">Hello world👋,I'm Zainab Turkmen</h1>
-<h3 align="center">A passionate Software Engineer, Frontend Web Developer from Afghanistan</h3>
+<h3 align="center">A passionate Frontend Web Developer from Afghanistan</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainabturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="zainabturkmen" /> </p>
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/zainab-turkmen-719183271/](https://www.linkedin.com/in/zainab-turkmen-719183271/)
 
-- ⚡ Fun fact about me **Love to learn new things about tech, and watching the Moon and Stars❤️😍**
+- ⚡ Fun fact about me **Love to learn new things about tech ❤️😍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
